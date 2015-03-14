@@ -1,2 +1,2 @@
-# asyncio-wsgiref
-Simple asyncio wsgiref server
+# aiowsgiref
+Simple asyncio & wsgiref server
